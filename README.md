@@ -1,4 +1,4 @@
 # 前言
-主要整理了有关Vue的一些重要的特性、框架的原理和一些知识点的梳理。
+收集整理微信端开发的一些知识点和平时遇到的一些问题
 
-1. [Vue知识点梳理](https://github.com/fuhangyy/Vue-Blog/issues/1)
+1. [解决wx:if页面闪烁问题](https://github.com/fuhangyy/Vue-Blog/issues/1)
